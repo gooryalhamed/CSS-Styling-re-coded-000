@@ -7,22 +7,22 @@ h2 {
 }
 h1,h2{
   color: green;
-  text-align: center;
 }
 nav a {
   font: bold 1em serif;
+}
+a:hover {
+  color: black;
+  text-decoration: none;
 }
 *{
   font: normal 18px Arial, serif;
 }
 img{
-  width: 500px;
-  height: 400px;
   border: 1px sold #ddd;
-  border-radius: 4px;
+  border-radius: 5px;
   padding: 5px;
-  border-radius: 8px;
 }
 figcaption{
-
+  font: 14px serif;
 }
